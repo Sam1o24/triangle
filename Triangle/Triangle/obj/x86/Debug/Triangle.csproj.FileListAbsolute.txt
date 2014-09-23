@@ -1,4 +1,0 @@
-C:\Users\SAM\Documents\Visual Studio 2010\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
-C:\Users\SAM\Documents\Visual Studio 2010\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
-C:\Users\SAM\Documents\Visual Studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.exe
-C:\Users\SAM\Documents\Visual Studio 2010\Projects\Triangle\Triangle\obj\x86\Debug\Triangle.pdb

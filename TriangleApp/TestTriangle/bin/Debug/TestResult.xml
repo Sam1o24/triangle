@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TestTriangle.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-09-23" time="09:46:47">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug" machine-name="SAM-PC" user="SAM" user-domain="SAM-PC" />
+  <culture-info current-culture="ru-RU" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TestTriangle.dll" executed="True" result="Success" success="True" time="0.086" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestTriangle" executed="True" result="Success" success="True" time="0.070" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.068" asserts="0">
+            <results>
+              <test-case name="TestTriangle.TestClass.TestToGrad" executed="True" result="Success" success="True" time="0.044" asserts="3" />
+              <test-case name="TestTriangle.TestClass.TestToRad" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

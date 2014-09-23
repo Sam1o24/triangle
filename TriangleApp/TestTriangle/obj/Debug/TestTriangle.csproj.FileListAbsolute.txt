@@ -1,0 +1,9 @@
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\obj\Debug\TestTriangle.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TestTriangle.dll
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TestTriangle.pdb
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\nunit.framework.dll
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\nunit.framework.xml
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\obj\Debug\TestTriangle.dll
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\obj\Debug\TestTriangle.pdb
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TriangleApp.exe
+C:\Users\SAM\Documents\Visual Studio 2010\Projects\ConsoleApplication2\TestTriangle\bin\Debug\TriangleApp.pdb
